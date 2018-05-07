@@ -1,0 +1,2 @@
+class AppearanceType < ApplicationRecord
+end
